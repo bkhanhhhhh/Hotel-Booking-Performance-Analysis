@@ -1,5 +1,6 @@
-![image](https://github.com/user-attachments/assets/f2b5cc74-0d05-4019-a0d0-91d7fdf593a0)# Hotel Booking Performance Analysis
-![image](https://github.com/user-attachments/assets/99ca0632-d6d5-4ad0-9816-fd186ad3ce49)
+# Hotel Booking Performance Analysis
+![image](https://github.com/user-attachments/assets/652125fe-3648-40c0-95c7-c56d87bf88d2)
+
 1. Project Overview
 This project provides a comprehensive analysis of hotel booking data to uncover key insights into business performance. The primary goal is to transform raw booking data into actionable business intelligence, enabling stakeholders to make data-driven decisions to optimize revenue, improve guest experience, and reduce cancellations.
 
