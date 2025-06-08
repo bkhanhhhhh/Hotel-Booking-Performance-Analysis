@@ -48,7 +48,7 @@ Core areas of analysis:
 Establishing foreign key constraints to ensure relational integrity.
 
 ### 3.3 Key SQL Queries
-I. Booking Performance
+#### I. Booking Performance
 ✅ Total Confirmed Room Nights
 
 ![image](https://github.com/user-attachments/assets/96334354-8b9f-42be-ba8d-7647877b7d8c)
@@ -61,7 +61,7 @@ I. Booking Performance
 
 ![image](https://github.com/user-attachments/assets/64b05bae-dc8b-4ff1-9e94-0416bb359c14)
 
-II. Revenue Analysis
+#### II. Revenue Analysis
 ✅ Total Room Revenue
 
 ![image](https://github.com/user-attachments/assets/5a1b3236-fa3a-48ed-9a97-45097b86f1e9)
@@ -74,7 +74,7 @@ II. Revenue Analysis
 
 ![image](https://github.com/user-attachments/assets/1014bfe4-4a6d-44a3-9f94-ab11729e0c0b)
 
-III. Cancellation Rate Analysis
+#### III. Cancellation Rate Analysis
 ✅ Overall Cancellation Rate
 
 ![image](https://github.com/user-attachments/assets/d59103ae-56da-4330-9e09-ee9c13101f09)
@@ -83,7 +83,7 @@ III. Cancellation Rate Analysis
 
 ![image](https://github.com/user-attachments/assets/3dae5c5b-1d7c-4278-a2ab-e5cb914a2cea)
 
-IV. Customer Return Rate
+#### IV. Customer Return Rate
 ✅ Return Rate Analysis
 
 ![image](https://github.com/user-attachments/assets/960b05c1-f97d-45ce-ab83-980a21d1ba95)
