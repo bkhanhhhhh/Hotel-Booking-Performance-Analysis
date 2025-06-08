@@ -5,7 +5,9 @@
 This project provides a comprehensive analysis of hotel booking data to uncover key insights into business performance. The primary goal is to transform raw booking data into actionable business intelligence, enabling stakeholders to make data-driven decisions to:
 
 ✅ Optimize revenue
+
 ✅ Improve guest experience
+
 ✅ Reduce cancellations
 
 Core areas of analysis:
@@ -124,5 +126,7 @@ Key Insights:
 
 ## 5. 📝 Conclusion & Recommendations
 ✅ Fix Pricing & Positioning: Address the Presidential vs. Deluxe pricing paradox.
+
 ✅ Unlock Service Revenue: Focus on upselling and bundling services.
+
 ✅ Reduce Cancellations: Data-driven policies and engagement strategies.
